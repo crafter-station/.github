@@ -1,7 +1,7 @@
 <h3 align="center">
-	<img src="https://raw.githubusercontent.com/Railly/crafter-station/main/public/logo.png" width="80" alt="Logo"/><br/>
-	<img src="https://raw.githubusercontent.com/Railly/crafter-station/main/public/transparent.png" height="30" width="0px"/>
-	Crafter Station
+  <img src="https://raw.githubusercontent.com/Railly/crafter-station/main/public/logo.png" width="80" alt="Logo"/><br/>
+  <img src="https://raw.githubusercontent.com/Railly/crafter-station/main/public/transparent.png" height="25" width="25"/>
+  Crafter Station
 </h3>
 
 <p align="center">
