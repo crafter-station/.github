@@ -1,6 +1,6 @@
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Railly/crafter-station/main/public/logo.png" width="80" alt="Logo"/><br/>
-  <img src="https://raw.githubusercontent.com/Railly/crafter-station/main/public/transparent.png" height="25" width="25"/>
+  <img src="https://raw.githubusercontent.com/Railly/crafter-station/main/public/transparent.png" height="25" width="20"/>
   Crafter Station
 </h3>
 
