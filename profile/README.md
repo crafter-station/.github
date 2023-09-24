@@ -9,7 +9,7 @@
 </p>
   
 <p align="center">
-  We're all about community—local and global. If you're looking for a place to grow, contribute, and even lead your own initiatives, you're in the right spot. We're open to new ideas and collaborative spirit. 
+  If you're looking for a place to grow, contribute, and even lead your own initiatives, you're in the right spot. We're open to new ideas and collaborative spirit. 
 </p>
 
 <p align="center">
