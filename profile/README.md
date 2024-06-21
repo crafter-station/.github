@@ -25,9 +25,5 @@ To build an ecosystem that elevates Peru as a global tech talent pool and contri
 - **Follow**: [@crafterstation](https://twitter.com/crafterstation)
 - **Join the Conversation**: Reach out to any of our members; we’re here to assist and collaborate!
 
-## Let's Craft Something Amazing Together
-
-Feel free to dive in and start contributing. Together, we can make a difference.
-
 > [!IMPORTANT]
-> Feel free to communicate with any of our members. We're here to assist and collaborate!
+> Feel free to communicate with any of our members. Let's Craft Something Amazing Together
