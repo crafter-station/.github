@@ -20,10 +20,9 @@ Crafter Station is your go-to hub for innovation, collaboration, and growth in t
 
 To build an ecosystem that elevates Peru as a global tech talent pool and contributes significantly to the worldwide tech community.
 
-## Get Involved
-
-- **Follow**: [@crafterstation](https://twitter.com/crafterstation)
-- **Join the Conversation**: Reach out to any of our members; we’re here to assist and collaborate!
-
 > [!IMPORTANT]
-> Feel free to communicate with any of our members. Let's Craft Something Amazing Together
+> **Follow**: [@crafterstation](https://twitter.com/crafterstation)
+>
+> Feel free to communicate with any of our members!
+>
+> Let's Craft Something Amazing Together
