@@ -4,8 +4,6 @@
   Crafter Station
 </h3>
 
-## About this project
-
 Welcome to Crafter Station, a vibrant open-source initiative based in Peru, dedicated to LATAM developers.
 
 ## About Us
