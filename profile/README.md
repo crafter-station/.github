@@ -1,28 +1,55 @@
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/Railly/crafter-station/main/public/logo.png" width="80" alt="Logo"/><br/>
+  <img src="https://raw.githubusercontent.com/Railly/crafter-station/main/public/logo.png" width="80" alt="Crafter Station Logo"/><br/>
   <img src="https://raw.githubusercontent.com/Railly/crafter-station/main/public/transparent.png" height="25" width="20"/>
-  Crafter Station
+  <br/>
+  <b>Crafter Station</b>
 </h3>
 
-Welcome to Crafter Station, a vibrant open-source initiative based in Peru, dedicated to LATAM developers.
+<p align="center">
+  Empowering developers, creators, and builders worldwide through open-source innovation.
+</p>
+
+<p align="center">
+  <i>From the creators of <b>Text0</b> — Winner of the Global Next.js Hackathon 2025.</i>
+</p>
+
+
+## Vision
+
+> Crafter Station exists to empower developers to build the future — by collaborating, learning, and launching world-class open-source projects together.
+
 
 ## About Us
 
-Crafter Station is your go-to hub for innovation, collaboration, and growth in the tech space. We’re all about fostering community, pushing boundaries, and building amazing projects together.
+Crafter Station is where ideas turn into impact.
+We build, collaborate, and push the limits of technology through open-source innovation.
+
 
 ## Join Us
 
-- **Contribute**: Whether you’re coding, designing, or brainstorming, we need your skills.
-- **Lead**: Start your own projects, gather a team, and bring your ideas to life.
-- **Collaborate**: Connect with like-minded developers and make an impact.
+- **Contribute**: Code, design, or share your expertise.
+- **Lead**: Launch your own projects and grow a team.
+- **Collaborate**: Connect with a global network of builders.
+
 
 ## Our Mission
 
-To build an ecosystem that elevates Peru as a global tech talent pool and contributes significantly to the worldwide tech community.
+To create a platform where innovation thrives, talent rises, and ideas shape the future — starting from Peru, reaching everywhere.
 
-> [!IMPORTANT]
-> **Follow**: [@crafterstation](https://twitter.com/crafterstation)
->
-> Feel free to communicate with any of our members!
->
-> Let's Craft Something Amazing Together
+
+## Connect With Us
+
+<p align="center">
+  <a href="https://discord.gg/7MfrzBAX" target="_blank">
+    <img src="https://img.shields.io/badge/Join%20Our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/crafterstation" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20Us%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow on Twitter"/>
+  </a>
+</p>
+
+
+> Let's craft what's next — together.
