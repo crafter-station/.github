@@ -40,7 +40,7 @@ To create a platform where innovation thrives, talent rises, and ideas shape the
 ## Connect With Us
 
 <p align="center">
-  <a href="https://discord.gg/7MfrzBAX" target="_blank">
+  <a href="https://discord.gg/W5sRKxqxH8" target="_blank">
     <img src="https://img.shields.io/badge/Join%20Our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord"/>
   </a>
 </p>
