@@ -6,36 +6,63 @@
 </h3>
 
 <p align="center">
-  Empowering developers, creators, and builders worldwide through open-source innovation.
+  The new generation of shippers in LATAM.<br/>
+  A community of engineers, designers, and builders who ship products and share what they learn.
 </p>
+
+---
+
+## What is Crafter Station?
+
+Crafter Station is a community born from a group of friends who wanted to build things in public — and let the world know.
+
+| Pillar | Description |
+|---|---|
+| **Product development** | We ship products to learn, accelerate, and inspire LATAM. |
+| **Events** | Code Brews, hackathons, and meetups to connect shippers. |
+| **Community** | Teaching and promoting the art of shipping. |
+| **Diverse team** | Engineers, designers, anthropologists, statisticians — all finding their way into tech. |
+| **Open calendars** | Book time for mentoring, career advice, or just a chat. |
+| **LATAM focused** | Born in Peru. Growing across Latin America. |
+
+---
+
+## The Community of Shippers
 
 <p align="center">
-  <i>From the creators of <b>Text0</b> — Winner of the Global Next.js Hackathon 2025.</i>
+  <b>400+</b> Community members &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b>50+</b> Events hosted &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b>25+</b> Shipped products
 </p>
 
+---
 
-## Vision
+## Three Pillars
 
-> Crafter Station exists to empower developers to build the future — by collaborating, learning, and launching world-class open-source projects together.
+**Build** — Ship new products to learn and accelerate the LATAM tech ecosystem.
 
+**Meet** — Host events to bring shippers together and promote the shipping culture.
 
-## About Us
+**Grow** — Teach the art of shipping inside a community that celebrates it.
 
-Crafter Station is where ideas turn into impact.
-We build, collaborate, and push the limits of technology through open-source innovation.
+---
 
+## Core Members
 
-## Join Us
+| Name | Role | Location |
+|---|---|---|
+| Shiara Arauzo | Design Engineer | Lima, Peru |
+| Cristian Correa | Data & Software Engineer | Bogotá, Colombia |
+| Railly Hugo | Design Engineer | Lima, Peru |
+| Emmy Arias | Growth & Marketing | Bogotá, Colombia |
+| Nicolas Vargas | Backend Developer | — |
+| Ignacio Velásquez | Growth & Automation | Arequipa, Peru |
+| Ignacio Rueda | Backend Engineer | Lima, Peru |
+| Liz Riveros | Project Manager | Lima, Peru |
+| Carlos Tarmeño | Frontend Engineer | Lima, Peru |
+| Edward Ramos | Frontend Engineer | — |
 
-- **Contribute**: Code, design, or share your expertise.
-- **Lead**: Launch your own projects and grow a team.
-- **Collaborate**: Connect with a global network of builders.
-
-
-## Our Mission
-
-To create a platform where innovation thrives, talent rises, and ideas shape the future — starting from Peru, reaching everywhere.
-
+---
 
 ## Connect With Us
 
@@ -43,13 +70,10 @@ To create a platform where innovation thrives, talent rises, and ideas shape the
   <a href="https://discord.gg/W5sRKxqxH8" target="_blank">
     <img src="https://img.shields.io/badge/Join%20Our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord"/>
   </a>
-</p>
-
-<p align="center">
+  &nbsp;
   <a href="https://twitter.com/crafterstation" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20Us%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow on Twitter"/>
   </a>
 </p>
-
 
 > Let's craft what's next — together.
