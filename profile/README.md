@@ -142,11 +142,27 @@ Crafter Station is a community born from a group of friends who wanted to build 
 
 <p align="center">
   <a href="https://discord.gg/W5sRKxqxH8" target="_blank">
-    <img src="https://img.shields.io/badge/Join%20Our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  &nbsp;
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Luma-FF6B6B?style=for-the-badge&logo=luma&logoColor=white" alt="Luma"/>
   </a>
   &nbsp;
   <a href="https://twitter.com/crafterstation" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20Us%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow on Twitter"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  &nbsp;
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
 
