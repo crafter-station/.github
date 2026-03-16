@@ -29,38 +29,116 @@ Crafter Station is a community born from a group of friends who wanted to build 
 
 ## The Community of Shippers
 
-<p align="center">
-  <b>400+</b> Community members &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b>50+</b> Events hosted &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b>25+</b> Shipped products
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <h1>400+</h1>
+      Community members
+    </td>
+    <td align="center" width="200">
+      <h1>50+</h1>
+      Events hosted
+    </td>
+    <td align="center" width="200">
+      <h1>25+</h1>
+      Shipped products
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Three Pillars
 
-**Build** — Ship new products to learn and accelerate the LATAM tech ecosystem.
-
-**Meet** — Host events to bring shippers together and promote the shipping culture.
-
-**Grow** — Teach the art of shipping inside a community that celebrates it.
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <br/>
+      <h3>Build</h3>
+      Ship new products to learn and accelerate the LATAM tech ecosystem.
+      <br/><br/>
+    </td>
+    <td align="center" width="33%">
+      <br/>
+      <h3>Meet</h3>
+      Host events to bring shippers together and promote the shipping culture.
+      <br/><br/>
+    </td>
+    <td align="center" width="33%">
+      <br/>
+      <h3>Grow</h3>
+      Teach the art of shipping inside a community that celebrates it.
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Core Members
 
-| Name | Role | Location |
-|---|---|---|
-| Shiara Arauzo | Design Engineer | Lima, Peru |
-| Cristian Correa | Data & Software Engineer | Bogotá, Colombia |
-| Railly Hugo | Design Engineer | Lima, Peru |
-| Emmy Arias | Growth & Marketing | Bogotá, Colombia |
-| Nicolas Vargas | Backend Developer | — |
-| Ignacio Velásquez | Growth & Automation | Arequipa, Peru |
-| Ignacio Rueda | Backend Engineer | Lima, Peru |
-| Liz Riveros | Project Manager | Lima, Peru |
-| Carlos Tarmeño | Frontend Engineer | Lima, Peru |
-| Edward Ramos | Frontend Engineer | — |
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://ui-avatars.com/api/?name=Shiara+Arauzo&background=6366f1&color=fff&size=80&rounded=true" width="80" height="80"/><br/>
+      <b>Shiara Arauzo</b><br/>
+      <sub>Design Engineer</sub>
+    </td>
+    <td align="center">
+      <img src="https://ui-avatars.com/api/?name=Cristian+Correa&background=6366f1&color=fff&size=80&rounded=true" width="80" height="80"/><br/>
+      <b>Cristian Correa</b><br/>
+      <sub>Data & Software Engineer</sub>
+    </td>
+    <td align="center">
+      <img src="https://ui-avatars.com/api/?name=Railly+Hugo&background=6366f1&color=fff&size=80&rounded=true" width="80" height="80"/><br/>
+      <b>Railly Hugo</b><br/>
+      <sub>Design Engineer</sub>
+    </td>
+    <td align="center">
+      <img src="https://ui-avatars.com/api/?name=Anthony+Cueva&background=6366f1&color=fff&size=80&rounded=true" width="80" height="80"/><br/>
+      <b>Anthony Cueva</b><br/>
+      <sub>Product Engineer</sub>
+    </td>
+    <td align="center">
+      <img src="https://ui-avatars.com/api/?name=Emmy+Arias&background=6366f1&color=fff&size=80&rounded=true" width="80" height="80"/><br/>
+      <b>Emmy Arias</b><br/>
+      <sub>Growth & Marketing</sub>
+    </td>
+    <td align="center">
+      <img src="https://ui-avatars.com/api/?name=Nicolas+Vargas&background=6366f1&color=fff&size=80&rounded=true" width="80" height="80"/><br/>
+      <b>Nicolas Vargas</b><br/>
+      <sub>Backend Developer</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://ui-avatars.com/api/?name=Ignacio+Velasquez&background=6366f1&color=fff&size=80&rounded=true" width="80" height="80"/><br/>
+      <b>Ignacio Velásquez</b><br/>
+      <sub>Growth & Automation</sub>
+    </td>
+    <td align="center">
+      <img src="https://ui-avatars.com/api/?name=Ignacio+Rueda&background=6366f1&color=fff&size=80&rounded=true" width="80" height="80"/><br/>
+      <b>Ignacio Rueda</b><br/>
+      <sub>Backend Engineer</sub>
+    </td>
+    <td align="center">
+      <img src="https://ui-avatars.com/api/?name=Liz+Riveros&background=6366f1&color=fff&size=80&rounded=true" width="80" height="80"/><br/>
+      <b>Liz Riveros</b><br/>
+      <sub>Project Manager</sub>
+    </td>
+    <td align="center">
+      <img src="https://ui-avatars.com/api/?name=Carlos+Tarmeno&background=6366f1&color=fff&size=80&rounded=true" width="80" height="80"/><br/>
+      <b>Carlos Tarmeño</b><br/>
+      <sub>Frontend Engineer</sub>
+    </td>
+    <td align="center">
+      <img src="https://ui-avatars.com/api/?name=Edward+Ramos&background=6366f1&color=fff&size=80&rounded=true" width="80" height="80"/><br/>
+      <b>Edward Ramos</b><br/>
+      <sub>Frontend Engineer</sub>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
