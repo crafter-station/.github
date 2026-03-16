@@ -31,18 +31,14 @@ Crafter Station is a community born from a group of friends who wanted to build 
 
 <table align="center">
   <tr>
-    <td align="center" width="200">
-      <h1>400+</h1>
-      Community members
-    </td>
-    <td align="center" width="200">
-      <h1>50+</h1>
-      Events hosted
-    </td>
-    <td align="center" width="200">
-      <h1>25+</h1>
-      Shipped products
-    </td>
+    <td align="center" width="200"><h1><b>400+</b></h1></td>
+    <td align="center" width="200"><h1><b>50+</b></h1></td>
+    <td align="center" width="200"><h1><b>25+</b></h1></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Community members</sub></td>
+    <td align="center"><sub>Events hosted</sub></td>
+    <td align="center"><sub>Shipped products</sub></td>
   </tr>
 </table>
 
@@ -77,62 +73,62 @@ Crafter Station is a community born from a group of friends who wanted to build 
 
 ## Core Members
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
-      <img src="https://ui-avatars.com/api/?name=Shiara+Arauzo&background=6366f1&color=fff&size=80&rounded=true" width="80" height="80"/><br/>
+      <img src="https://raw.githubusercontent.com/crafter-station/.github/main/Team/shiara.webp" width="80" height="80"/><br/>
       <b>Shiara Arauzo</b><br/>
       <sub>Design Engineer</sub>
     </td>
     <td align="center">
-      <img src="https://ui-avatars.com/api/?name=Cristian+Correa&background=6366f1&color=fff&size=80&rounded=true" width="80" height="80"/><br/>
+      <img src="https://raw.githubusercontent.com/crafter-station/.github/main/Team/cris.webp" width="80" height="80"/><br/>
       <b>Cristian Correa</b><br/>
       <sub>Data & Software Engineer</sub>
     </td>
     <td align="center">
-      <img src="https://ui-avatars.com/api/?name=Railly+Hugo&background=6366f1&color=fff&size=80&rounded=true" width="80" height="80"/><br/>
+      <img src="https://raw.githubusercontent.com/crafter-station/.github/main/Team/railly.webp" width="80" height="80"/><br/>
       <b>Railly Hugo</b><br/>
       <sub>Design Engineer</sub>
     </td>
     <td align="center">
-      <img src="https://ui-avatars.com/api/?name=Anthony+Cueva&background=6366f1&color=fff&size=80&rounded=true" width="80" height="80"/><br/>
+      <img src="https://raw.githubusercontent.com/crafter-station/.github/main/Team/cueva.webp" width="80" height="80"/><br/>
       <b>Anthony Cueva</b><br/>
       <sub>Product Engineer</sub>
     </td>
     <td align="center">
-      <img src="https://ui-avatars.com/api/?name=Emmy+Arias&background=6366f1&color=fff&size=80&rounded=true" width="80" height="80"/><br/>
+      <img src="https://raw.githubusercontent.com/crafter-station/.github/main/Team/emmy.webp" width="80" height="80"/><br/>
       <b>Emmy Arias</b><br/>
       <sub>Growth & Marketing</sub>
     </td>
     <td align="center">
-      <img src="https://ui-avatars.com/api/?name=Nicolas+Vargas&background=6366f1&color=fff&size=80&rounded=true" width="80" height="80"/><br/>
+      <img src="https://raw.githubusercontent.com/crafter-station/.github/main/Team/nicolas.svg" width="80" height="80"/><br/>
       <b>Nicolas Vargas</b><br/>
       <sub>Backend Developer</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://ui-avatars.com/api/?name=Ignacio+Velasquez&background=6366f1&color=fff&size=80&rounded=true" width="80" height="80"/><br/>
+      <img src="https://raw.githubusercontent.com/crafter-station/.github/main/Team/ignacio.webp" width="80" height="80"/><br/>
       <b>Ignacio Velásquez</b><br/>
       <sub>Growth & Automation</sub>
     </td>
     <td align="center">
-      <img src="https://ui-avatars.com/api/?name=Ignacio+Rueda&background=6366f1&color=fff&size=80&rounded=true" width="80" height="80"/><br/>
+      <img src="https://raw.githubusercontent.com/crafter-station/.github/main/Team/nacho.webp" width="80" height="80"/><br/>
       <b>Ignacio Rueda</b><br/>
       <sub>Backend Engineer</sub>
     </td>
     <td align="center">
-      <img src="https://ui-avatars.com/api/?name=Liz+Riveros&background=6366f1&color=fff&size=80&rounded=true" width="80" height="80"/><br/>
+      <img src="https://raw.githubusercontent.com/crafter-station/.github/main/Team/liz.webp" width="80" height="80"/><br/>
       <b>Liz Riveros</b><br/>
       <sub>Project Manager</sub>
     </td>
     <td align="center">
-      <img src="https://ui-avatars.com/api/?name=Carlos+Tarmeno&background=6366f1&color=fff&size=80&rounded=true" width="80" height="80"/><br/>
+      <img src="https://raw.githubusercontent.com/crafter-station/.github/main/Team/tarmeno.webp" width="80" height="80"/><br/>
       <b>Carlos Tarmeño</b><br/>
       <sub>Frontend Engineer</sub>
     </td>
     <td align="center">
-      <img src="https://ui-avatars.com/api/?name=Edward+Ramos&background=6366f1&color=fff&size=80&rounded=true" width="80" height="80"/><br/>
+      <img src="https://raw.githubusercontent.com/crafter-station/.github/main/Team/edward.webp" width="80" height="80"/><br/>
       <b>Edward Ramos</b><br/>
       <sub>Frontend Engineer</sub>
     </td>
