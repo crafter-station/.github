@@ -138,6 +138,14 @@ Crafter Station is a community born from a group of friends who wanted to build 
 
 ---
 
+## Crafter Research
+
+Our civic technology research arm. Open-source tools for political transparency in Peru.
+
+**[research.crafter.ing](https://research.crafter.ing)** | [peru-financia](https://peru-financia.crafter.ing) — mapa de financiamiento politico peruano
+
+---
+
 ## Connect With Us
 
 <div align="center">
