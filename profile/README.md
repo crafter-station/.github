@@ -6,7 +6,7 @@
 
 <p align="center">
   The LatAm network of shippers.<br/>
-  We meet, learn, and build in public — with taste, speed, and ambition.
+  We meet, learn, and build in public with taste, speed, and ambition.
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
     <td align="center" width="160"><h2>900+</h2><sub>Builders</sub></td>
     <td align="center" width="160"><h2>50+</h2><sub>Events</sub></td>
     <td align="center" width="160"><h2>25+</h2><sub>Products shipped</sub></td>
-    <td align="center" width="160"><h2>3.2k+</h2><sub>OSS stars</sub></td>
+    <td align="center" width="160"><h2>4.9k+</h2><sub>OSS stars</sub></td>
   </tr>
 </table>
 
@@ -31,7 +31,7 @@
 Open-source products, Code Brews and hackathons across LatAm, and research on
 AI-first engineering, agents, and developer experience.
 
-**[Crafter Research](https://research.crafter.ing)** — civic tech for political
+**[Crafter Research](https://research.crafter.ing)**: civic tech for political
 transparency in Peru.
 
 ---
