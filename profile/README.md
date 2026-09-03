@@ -17,7 +17,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="160"><h2>900+</h2><sub>Builders</sub></td>
+    <td align="center" width="160"><h2>2000+</h2><sub>Builders</sub></td>
     <td align="center" width="160"><h2>50+</h2><sub>Events</sub></td>
     <td align="center" width="160"><h2>25+</h2><sub>Products shipped</sub></td>
     <td align="center" width="160"><h2>4.9k+</h2><sub>OSS stars</sub></td>
